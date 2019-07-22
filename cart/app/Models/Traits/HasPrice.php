@@ -2,11 +2,11 @@
 
 namespace App\Models\Traits;
 
-use Money\Currencies\ISOCurrencies;
-use Money\Currency;
-use Money\Formatter\IntlMoneyFormatter;
 use App\Cart\Money;
 use NumberFormatter;
+use Money\Currency;
+use Money\Formatter\IntlMoneyFormatter;
+use Money\Currencies\ISOCurrencies;
 
 trait HasPrice
 {
@@ -18,6 +18,7 @@ trait HasPrice
 
     public function getFormattedPriceAttribute()
     {
-//       return $this->price->formatted();
+       return $this->price->formatted();
     }
+
 }
