@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/cart/app/Models/ProductVariation.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="e#30#49#0#PHP" expanded="true" />
               </folding>
@@ -48,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cart/tests/Unit/Products/ProductVariationTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
@@ -56,6 +56,57 @@
               <folding>
                 <element signature="e#39#58#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cartclient/components/products/ProductVariation.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cart/app/Models/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="e#30#61#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cart/app/Http/Resources/ProductIndexResource.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cart/tests/Unit/Products/ProductTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-65">
+              <caret line="75" column="51" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="51" />
+              <folding>
+                <element signature="e#39#63#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cartclient/pages/products/_slug.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -122,16 +173,11 @@
         <option value="$PROJECT_DIR$/cart/app/Scoping/Scoper.php" />
         <option value="$PROJECT_DIR$/cart/app/Models/Traits/CanBeScoped.php" />
         <option value="$PROJECT_DIR$/cart/app/Models/Traits/HasPrise.php" />
-        <option value="$PROJECT_DIR$/cart/app/Models/Product.php" />
         <option value="$PROJECT_DIR$/cartclient/components/products/Product.vue" />
-        <option value="$PROJECT_DIR$/cartclient/components/products/ProductVariation.vue" />
-        <option value="$PROJECT_DIR$/cartclient/pages/products/_slug.vue" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_06_17_113427_create_stocks_table.php" />
         <option value="$PROJECT_DIR$/cart/database/factories/StockFactory.php" />
-        <option value="$PROJECT_DIR$/cart/tests/Unit/Products/ProductTest.php" />
         <option value="$PROJECT_DIR$/cart/app/Models/Traits/HasPrice.php" />
         <option value="$PROJECT_DIR$/cart/app/Cart/Money.php" />
-        <option value="$PROJECT_DIR$/cart/app/Http/Resources/ProductIndexResource.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_22_151038_create_orders_table.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2014_10_12_000000_create_users_table.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_23_080344_create_users_table.php" />
@@ -158,11 +204,16 @@
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_25_090428_create_product_variation_stock_view.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_25_091739_create_product_variation_stock_view.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_25_092910_create_product_variation_stock_view.php" />
-        <option value="$PROJECT_DIR$/cart/app/Models/ProductVariation.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_25_131717_create_product_variation_stock_view.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_25_200234_create_product_variation_stock_view.php" />
         <option value="$PROJECT_DIR$/cart/database/migrations/2019_07_25_201100_create_product_variation_stock_view.php" />
         <option value="$PROJECT_DIR$/cart/tests/Unit/Products/ProductVariationTest.php" />
+        <option value="$PROJECT_DIR$/cartclient/components/products/ProductVariation.vue" />
+        <option value="$PROJECT_DIR$/cart/app/Models/Product.php" />
+        <option value="$PROJECT_DIR$/cart/app/Models/ProductVariation.php" />
+        <option value="$PROJECT_DIR$/cart/app/Http/Resources/ProductIndexResource.php" />
+        <option value="$PROJECT_DIR$/cart/tests/Unit/Products/ProductTest.php" />
+        <option value="$PROJECT_DIR$/cartclient/pages/products/_slug.vue" />
       </list>
     </option>
   </component>
@@ -256,10 +307,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="171" />
+    <option name="y" value="385" />
     <option name="width" value="1440" />
-    <option name="height" value="621" />
+    <option name="height" value="703" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -377,7 +427,7 @@
       <workItem from="1560587151287" duration="30033000" />
       <workItem from="1560688634977" duration="41249000" />
       <workItem from="1563781793940" duration="29443000" />
-      <workItem from="1563946069116" duration="20656000" />
+      <workItem from="1563946069116" duration="23620000" />
     </task>
     <task id="LOCAL-00001" summary="update npm">
       <created>1563785838543</created>
@@ -397,7 +447,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121381000" />
+    <option name="totallyTimeSpent" value="124345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +459,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="171" width="1440" height="621" extended-state="0" />
+    <frame x="0" y="385" width="1440" height="703" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -424,7 +475,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.38185254" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.33060557" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.21140473" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -461,27 +512,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update npm" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cartclient/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="5489" column="25" lean-forward="true" selection-start-line="5489" selection-start-column="25" selection-end-line="5489" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cart/database/migrations/2019_06_16_221737_add_product_variation_type_id_to_product_variations_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cart/database/migrations/2019_06_15_154933_create_categories_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cart/database/migrations/2019_06_15_155806_add_order_to-categories_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -597,23 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-77">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cart/app/Models/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="e#30#61#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cart/app/Http/Resources/ProductIndexResource.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -834,16 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cart/app/Models/ProductVariation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#30#49#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cart/tests/Unit/Products/ProductVariationTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -851,6 +854,57 @@
           <folding>
             <element signature="e#39#58#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartclient/components/products/ProductVariation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart/app/Models/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#30#61#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart/app/Models/ProductVariation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#30#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart/app/Http/Resources/ProductIndexResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart/tests/Unit/Products/ProductTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="75" column="51" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="51" />
+          <folding>
+            <element signature="e#39#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartclient/pages/products/_slug.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
         </state>
       </provider>
     </entry>
